@@ -69,3 +69,4 @@ git remote add origin https://github.com/Rajeshpdevops/Rajeshpdevops.git
 git push -u origin master
 clear
 git push -u origin master
+clear
